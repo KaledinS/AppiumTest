@@ -1,0 +1,5 @@
+$x("//*[@class='header__9V1so header__3rtwn']//div//span//a")
+$x("//*[@class='header__9V1so header__3rtwn']//div[last()]//span//a")
+$x("//*[@class='header__9V1so header__3rtwn']//div[2]//span//a")
+$x("//*[@class='header__9V1so header__3rtwn']//div[2]//span//a/..")
+$x("//*[@class='header__9V1so header__3rtwn']//div[2]//span//a/../a")
